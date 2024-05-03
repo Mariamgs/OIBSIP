@@ -1,3 +1,2 @@
 # OIBSIP
-
-Oasis Infobyte Intership - data science projects
+Small data science projects
